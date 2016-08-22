@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EKGservice:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="kpfu.itis.war">
+      <element id="artifact" artifact-name="EKGservice:war exploded" />
+    </root>
+  </artifact>
+</component>

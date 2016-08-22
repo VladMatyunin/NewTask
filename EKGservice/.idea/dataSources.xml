@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3556399937">
+    <data-source source="LOCAL" name="HSQLDB (Local) - EKGservice" uuid="8574ee69-0850-4a82-bb6e-894cbf81fda1">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:file:$PROJECT_DIR$/../../hsqldb-2.3.4/hsqldb/data/EKGservice/MyDatabase</jdbc-url>
+      <driver-properties>
+        <property name="lock" value="false" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
